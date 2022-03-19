@@ -26,3 +26,9 @@ apt install influxdb
 apt install grafana
 ```
 
+## Running k6
+
+```
+k6 run script.js
+```
+
