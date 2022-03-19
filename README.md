@@ -32,3 +32,7 @@ apt install grafana
 k6 run script.js
 ```
 
+## Visualization
+
+- [InfluxDB + Grafana](https://k6.io/docs/results-visualization/influxdb-+-grafana/)
+
